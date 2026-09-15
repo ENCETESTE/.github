@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/ENCETESTE.png" width="180" alt="ENCETESTh1>
-
+<p>
 <p align="center">
   Projetos • Workshops • Dados • Automação • Inovação
 </p>
