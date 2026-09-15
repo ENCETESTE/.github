@@ -12,9 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/ENCETESTE">
-alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-thub.io">
-    <img alt="Website" src="https://img.shields.io/badge/Website-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img alt="Website" src="https://img.shields.io/badge/Website-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white">
 
 A **ENCETESTE** é um espaço dedicado à criação e divulgação de projetos relacionados a:
 
